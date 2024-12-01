@@ -1,0 +1,4 @@
+enum RefreshLoadingType {
+  normal,
+  paginated,
+}
